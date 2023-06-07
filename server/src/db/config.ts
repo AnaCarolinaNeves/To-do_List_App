@@ -4,8 +4,8 @@ export = {
         connection: {
             host: "localhost",
             port: "5432",
-            database: "todo_list",
-            user: "usuarioinpe",
+            database: "template1",
+            user: "postgres",
             password: "123123",
         },
         pool: {
